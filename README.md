@@ -2,7 +2,7 @@
 
 \*# Note: All the variables to this image are optional.
 # See README for more information.
-# To use, uncomment and replace with your own values.*\
+# To use, uncomment and replace with your own values.\*
 
 \# Define IPsec PSK, VPN username and password
 \# - DO NOT put "" or '' around values, or add space around =
