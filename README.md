@@ -1,4 +1,4 @@
-#docker iptables vx.x.x (legacy) issue.<br>
+#docker iptables vx.x.x (legacy) issue<br>
 `
 sudo modprobe iptable_filter
 `
