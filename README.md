@@ -1,9 +1,10 @@
-#docker iptables vx.x.x (legacy) issue
+#docker iptables vx.x.x (legacy) issue <br>
 `
-sudo modprobe iptable_filter<br>
+sudo modprobe iptable_filter
 `
+<br>
 `
-sudo modprobe iptable_nat<br>
+sudo modprobe iptable_nat
 `
 
 # vpn.env.example
