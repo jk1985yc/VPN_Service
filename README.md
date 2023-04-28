@@ -1,6 +1,8 @@
 #docker iptables vx.x.x (legacy) issue
 `
 sudo modprobe iptable_filter
+`
+`
 sudo modprobe iptable_nat
 `
 
